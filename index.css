@@ -1,0 +1,71 @@
+
+*{padding: 0px;
+margin: 0px;}
+body{ background-color: rgb(14, 14, 34);}
+.container{ 
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 100px;
+
+}
+.item{ width: 110px;
+height: 110px;
+border-radius: 50%;
+border: solid 3px white;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;}
+span{color: aliceblue;}
+.qator{
+    display: flex;
+    color: aliceblue;
+    justify-content: space-between;
+    margin: 10px 100px;
+}
+.item1{ width: 200px;
+    height: 50px;
+}
+.item11{ background-color: rgb(71, 83, 83);
+    display: flex;
+    align-items: center;
+    justify-content: center;}
+.item12{ background-color: rgb(41, 179, 22);
+        display: flex;
+        align-items: center;
+        justify-content: center;}
+.item13{ background-color: rgb(155, 197, 38);
+         display: flex;
+        align-items: center;
+        justify-content: center;}
+.item14{ background-color: rgb(87, 9, 231);
+        display: flex;
+         align-items: center;
+        justify-content: center;}
+.item15{ background-color: rgb(221, 11, 39);
+        display: flex;
+        align-items: center;
+        justify-content: center;}
+.item16{ background-color: rgb(228, 14, 164);
+        display: flex;
+        align-items: center;
+        justify-content: center;}
+
+.satr{
+    color: aliceblue;
+  margin-left: 90px;
+}
+.item2{
+    width: 200px;
+    height: 80px;
+    background-color: red;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rasm{
+    position: relative;
+    left: 350px;
+    top: -450px;
+}
